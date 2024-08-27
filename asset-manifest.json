@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChessBoard/static/css/main.0be15dce.css",
+    "main.js": "/ChessBoard/static/js/main.4b73571d.js",
+    "static/js/453.8411124a.chunk.js": "/ChessBoard/static/js/453.8411124a.chunk.js",
+    "static/media/knight.png": "/ChessBoard/static/media/knight.884e3f1fe60b9cf8ecfd.png",
+    "static/media/bishop (1).png": "/ChessBoard/static/media/bishop (1).c59b389e977a25e798f5.png",
+    "static/media/king.png": "/ChessBoard/static/media/king.489f1fc11b0e4dc999a9.png",
+    "static/media/game.png": "/ChessBoard/static/media/game.142fed4fe7d3b437d3b8.png",
+    "static/media/rook (1).png": "/ChessBoard/static/media/rook (1).541019485b2dc7be71fc.png",
+    "static/media/queen (2).png": "/ChessBoard/static/media/queen (2).ce306a55c9b4233310a9.png",
+    "static/media/pawn.png": "/ChessBoard/static/media/pawn.5a416b6ef66a0625d9ae.png",
+    "static/media/strategy.png": "/ChessBoard/static/media/strategy.eb031c899c8a38afb26e.png",
+    "index.html": "/ChessBoard/index.html",
+    "main.0be15dce.css.map": "/ChessBoard/static/css/main.0be15dce.css.map",
+    "main.4b73571d.js.map": "/ChessBoard/static/js/main.4b73571d.js.map",
+    "453.8411124a.chunk.js.map": "/ChessBoard/static/js/453.8411124a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be15dce.css",
+    "static/js/main.4b73571d.js"
+  ]
+}
