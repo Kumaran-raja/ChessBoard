@@ -1,0 +1,28 @@
+#black{
+     width: 80px;
+     height: 80px;
+    
+     background-color: green;
+}
+
+#white{
+    width: 80px;
+    height: 80px;
+   
+    background-color: rgb(228, 215, 215);
+}
+#chessboard{
+    background-color: aquamarine;
+    width: 640px;
+    display: block;
+    margin-top: 50px;
+    justify-content: center;
+    height: 640px;
+}
+img{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+}
